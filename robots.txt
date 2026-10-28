@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://posada-los-fresnos-dorados.vercel.app/sitemap.xml

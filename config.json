@@ -1,0 +1,452 @@
+{
+  "business": {
+    "name": "Posada Los Fresnos Dorados",
+    "short_name": "posada-los-fresnos-dorados",
+    "tagline": "Posada Los Fresnos Dorados - Chubut",
+    "description": "Todo lo que buscás para viajar tranquilo, en Posada Los Fresnos Dorados.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Chubut · Bº Almirante Brown",
+    "title_line1": "Conocé",
+    "title_em": "posada-los-fresnos-dorados",
+    "title_line2": "",
+    "subtitle": "Tu refugio en Chubut después de recorrer todo el día."
+  },
+  "location": {
+    "address": "Bº Almirante Brown, Mermoz 337, U9100 Trelew, Chubut",
+    "district": "Chubut",
+    "city": "Chubut",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Bº Almirante Brown, Mermoz 337, U9100 Trelew, Chubut, Chubut",
+    "map_embed": "https://maps.google.com/maps?q=B%C2%BA+Almirante+Brown%2C+Mermoz+337%2C+U9100+Trelew%2C+Chubut%2C+Chubut&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Chubut. Caminando llegás a todos lados.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5492804443683",
+    "phone": "+5492804443683",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Posada+Los+Fresnos+Dorados/data=!4m10!3m9!1s0xbe0145293f783681:0x4d0e71a28cf5733a!5m2!4m1!1i2!8m2!3d-43.2716536!4d-65.2864936!16s%2Fg%2F119v64yyz!19sChIJgTZ4PylFAb4ROnP1jKJxDk0?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Posada+Los+Fresnos+Dorados/data=!4m10!3m9!1s0xbe0145293f783681:0x4d0e71a28cf5733a!5m2!4m1!1i2!8m2!3d-43.2716536!4d-65.2864936!16s%2Fg%2F119v64yyz!19sChIJgTZ4PylFAb4ROnP1jKJxDk0?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Te contamos",
+    "title": "Posada Los Fresnos Dorados, tu base en Chubut.",
+    "paragraphs": [
+      "Posada Los Fresnos Dorados es tu base en Chubut. Pileta, parrilla, WiFi, cocina y una ubicación ideal para recorrer todo. Somos un hostel familiar con toda la vibra que necesitás para viajar tranquilo."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "WhatsApp rápido para todo",
+    "Precio real, sin letras chiquitas",
+    "Ya recibimos viajeros de todo el mundo"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Habitaciones limpias y cómodas",
+      "description": "Todo lo que necesitás para descansar después de explorar.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi gratis",
+      "description": "Subite las fotos y mandá los audios sin drama.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Bien ubicados",
+      "description": "A pocas cuadras de todo lo que necesitás.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    },
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Aceptan mascotas?",
+      "answer": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+    },
+    {
+      "question": "¿Tienen estacionamiento?",
+      "answer": "Sí, tenemos lugar para estacionar sin cargo."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿Cuánto queda para la playa/centro?",
+      "answer": "A pocas cuadras, caminando llegás en 5 minutos."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Posada Los Fresnos Dorados",
+    "copyright": "© 2026 Posada Los Fresnos Dorados. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Posada Los Fresnos Dorados",
+        "short_name": "posada-los-fresnos-dorados",
+        "tagline": "Posada Los Fresnos Dorados - Accommodation",
+        "description": "A cool hostel in Chubut. Meet Posada Los Fresnos Dorados.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Chubut · Bº Almirante Brown",
+        "title_line1": "Experience",
+        "title_em": "posada-los-fresnos-dorados",
+        "title_line2": "from here",
+        "subtitle": "Private and shared rooms in Chubut."
+      },
+      "about": {
+        "eyebrow": "About us",
+        "title": "A bit about Posada Los Fresnos Dorados.",
+        "paragraphs": [
+          "Posada Los Fresnos Dorados awaits you in Chubut with clean rooms, pool, BBQ, full kitchen and free WiFi. A quiet place to rest and from where you can explore the whole area."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Chubut. Walk everywhere from here."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "Is there a pool?",
+          "answer": "Yes! In summer it's the best spot to cool off after sightseeing."
+        },
+        {
+          "question": "Is there WiFi?",
+          "answer": "Yep, free WiFi everywhere. Upload your stories without worry."
+        },
+        {
+          "question": "How far is the beach/downtown?",
+          "answer": "Just a few blocks, about a 5-minute walk."
+        },
+        {
+          "question": "How do I get around the city?",
+          "answer": "Reach out and we'll tell you the best transport options and what to visit nearby."
+        }
+      ],
+      "trust_bar": [
+        "Quick answers whenever you need",
+        "No middlemen, no surprises",
+        "We've been travelers too, we get it"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        }
+      ],
+      "footer": {
+        "description": "Posada Los Fresnos Dorados",
+        "copyright": "© 2026 Posada Los Fresnos Dorados. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Posada Los Fresnos Dorados",
+        "description": "Habitaciones cómodas y buena onda en Posada Los Fresnos Dorados, Chubut.",
+        "url": "",
+        "telephone": "+5492804443683",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Posada+Los+Fresnos+Dorados/data=!4m10!3m9!1s0xbe0145293f783681:0x4d0e71a28cf5733a!5m2!4m1!1i2!8m2!3d-43.2716536!4d-65.2864936!16s%2Fg%2F119v64yyz!19sChIJgTZ4PylFAb4ROnP1jKJxDk0?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bº Almirante Brown, Mermoz 337, U9100 Trelew, Chubut",
+          "addressLocality": "Chubut",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Habitaciones limpias y cómodas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Bien ubicados",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Aceptan mascotas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen estacionamiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, tenemos lugar para estacionar sin cargo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto queda para la playa/centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pocas cuadras, caminando llegás en 5 minutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
